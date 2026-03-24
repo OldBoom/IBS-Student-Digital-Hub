@@ -36,7 +36,6 @@ IBS-Student-Digital-Hub/
   docs/
     ibs-student-hub-dev-plan.md    # Architecture and module specifications
     ibs-student-hub-sprints.md     # Sprint breakdown and task assignments
-    302-llm-oriented-writing.mdc   # Writing standards for LLM-oriented docs
   src/
     app/
       (public)/                    # Student-facing pages
